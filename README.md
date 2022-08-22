@@ -1,5 +1,11 @@
 # firechat-web
 
+Deployed on web- https://www.fire-chat.tech/
+
+Production Build- https://firechat-web.pages.dev/
+
+Testing Build- https://testing.firechat-web.pages.dev/
+
 ![image](https://user-images.githubusercontent.com/50516265/185762700-9ead9d64-e5f1-422b-9ce1-f99906eb3fa1.png)
 
 
